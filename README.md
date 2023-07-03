@@ -7,7 +7,7 @@ EasyMAF is an interactive web based application developed in R using Shiny, to a
 The input data for this app requires 2 files in '.maf.gz' and '.tsv' format.
 
 Required input files:
-- an MAF file - can be gz compressed.
+- a MAF file - can be gz compressed.
 - an optional but recommended clinical data associated with each sample/Tumor_Sample_Barcode in MAF.
 - an optional copy number data if available. Can be GISTIC output or a custom table containing sample names, gene names and copy-number status.
 
